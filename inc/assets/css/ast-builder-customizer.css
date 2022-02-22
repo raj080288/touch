@@ -2,6 +2,10 @@
     height: auto;
 }
 
+body {
+	background-color: green !important;
+}
+
 .ahfb-grid-disabled {
     pointer-events: none;
     opacity: 0.4;
